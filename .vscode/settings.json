@@ -1,0 +1,11 @@
+{
+    colorize.languages": [
+        "javascript",
+          "typescript",
+          "javascriptreact",
+          "typescriptreact",
+        "json",
+        "html",
+        "css"
+      ]
+}
